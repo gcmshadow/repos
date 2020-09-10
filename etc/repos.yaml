@@ -155,7 +155,7 @@ healpy: https://github.com/gcmshadow/healpy.git
 mysqlclient: https://github.com/gcmshadow/mysqlclient.git
 utils: https://github.com/gcmshadow/utils.git
 afwdata:
-  url: https://github.com/gcmshadow/afwdata.git
+  url: https://github.com/lsst/afwdata.git
   lfs: true
 meas_astrom: https://github.com/gcmshadow/meas_astrom.git
 ip_diffim: https://github.com/gcmshadow/ip_diffim.git

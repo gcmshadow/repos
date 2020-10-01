@@ -46,6 +46,7 @@
 #
 ---
 # yamllint disable rule:line-length
+spl_ap: https://github.com/gcmshadow/spl_ap
 spl_workflows: https://github.com/gcmshadow/spl_workflows
 spl_plugins: https://github.com/gcmshadow/spl_plugins
 spl_testdata: https://github.com/gcmshadow/spl_testdata.git
